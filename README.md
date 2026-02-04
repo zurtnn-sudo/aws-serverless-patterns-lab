@@ -56,18 +56,6 @@ This repo complements larger system designs by serving as a **pattern validation
 ---
 
 ## Repository Structure
-/patterns
-  /eventbridge-routing
-  /sqs-worker
-  /sns-fanout
-  /idempotent-consumer
-/shared
-  logging.ts
-  metrics.ts
-/infra
-  terraform/
-README.md
-
 
 Each pattern is:
 - self-contained
